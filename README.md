@@ -28,7 +28,7 @@ I am Francesco a junior front-end developer based in Italy, with a strong passio
 
 </p>
 
-  ## Other tools: 
+  ## 🔧 Other tools: 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />

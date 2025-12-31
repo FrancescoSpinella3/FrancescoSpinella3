@@ -20,7 +20,7 @@ I am Francesco a junior front-end developer based in Italy, with a strong passio
 ## Development stack: 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CSS3?style=for-the-badge&logo=css3&logoColor=white" />
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   <img src="https://img.shields.io/badge/React-01ADD8?style=for-the-badge&logo=react&logoColor=white" />
   
 </p>

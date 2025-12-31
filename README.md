@@ -40,5 +40,5 @@ I am Francesco a junior front-end developer based in Italy, with a strong passio
 
   ## 📭 How to reach me: 
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/giuseppe-funicello/) 👨🏻‍💻
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/francesco-spinella-969b13234/) 👨🏻‍💻
 - Follow on [Instagram](https://www.youtube.com/c/GiuseppeFunicelloo) 📸

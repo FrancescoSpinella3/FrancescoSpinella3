@@ -21,7 +21,7 @@ I am Francesco a junior front-end developer based in Italy, with a strong passio
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-01ADD8?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-01ADD8?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS?style=for-the-badge&logo=css&logoColor=white" />
   
 
 </p>

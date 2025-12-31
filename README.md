@@ -37,3 +37,11 @@ I am Francesco a junior front-end developer based in Italy, with a strong passio
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
   
 </p>
+
+  ## 🔧 How to reach me: 
+
+<p align="left">
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/giuseppe-funicello/) 👨🏻‍💻
+- Watch my [YouTube channel](https://www.youtube.com/c/GiuseppeFunicelloo) 📹
+  
+</p>

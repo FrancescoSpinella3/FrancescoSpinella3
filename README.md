@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Francesco,
-a junior front-end developer based in Italy, 
-with a strong passion for modern web interface development and continuous professional growth.
+I am Francesco a junior front-end developer based in Italy, with a strong passion for modern web interface development and continuous professional growth.
+
+## Development stack: 
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-01ADD8?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-01ADD8?style=for-the-badge&logo=react&logoColor=white" />
+  
+
+</p>

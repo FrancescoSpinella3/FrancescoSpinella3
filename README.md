@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a junior front-end developer based in Italy, with a strong passion for modern web interface development and continuous professional growth.
+I am Francesco,
+a junior front-end developer based in Italy, 
+with a strong passion for modern web interface development and continuous professional growth.

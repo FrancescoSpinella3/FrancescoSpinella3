@@ -42,4 +42,4 @@ I am Francesco a junior front-end developer based in Italy, with a strong passio
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/francesco-spinella-969b13234/) 👨🏻‍💻
 - Follow me on [Instagram](https://www.instagram.com/francescospinella3/?next=%2F) 📸
-- [francescospinella.dev](https://www.francescospinella.dev/) 🌐
+- Website [francescospinella.dev](https://www.francescospinella.dev/) 🌐
